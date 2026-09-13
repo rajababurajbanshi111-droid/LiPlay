@@ -1,0 +1,34 @@
+{
+  "id": "./",
+  "name": "LIPlay - Smart Audio Studio",
+  "short_name": "LIPlay",
+  "description": "Next-Gen Mobile Music Player with Voice Commands, Era Detection, 10-Band EQ and Auto-DJ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#0a0b10",
+  "theme_color": "#00f2fe",
+  "categories": ["music", "audio", "entertainment"],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
